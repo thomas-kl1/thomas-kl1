@@ -26,6 +26,11 @@ My public contributions: https://github.com/pulls?page=2&q=is%3Apr+author%3Athom
 - https://github.com/opengento/magento2-country-store-switcher
 - https://github.com/opengento/magento2-country-store-phone
 - https://github.com/opengento/magento2-country-store-redirect
+- https://github.com/opengento/magento2-document
+- https://github.com/opengento/magento2-document-widget
+- https://github.com/opengento/magento2-document-search
+- https://github.com/opengento/magento2-document-product-link
+- https://github.com/opengento/magento2-document-product-search
 - https://github.com/thomas-kl1/magento2-base-light
 - https://github.com/thomas-kl1/magento-2-phone-number-lib
 - https://github.com/thomas-kl1/magento-2-catalog-default-qty
