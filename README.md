@@ -13,7 +13,7 @@ My public contributions: https://github.com/pulls?page=2&q=is%3Apr+author%3Athom
 - https://github.com/magento/magento2
   - https://github.com/magento/magento2/pulls?q=is%3Apr+author%3Athomas-kl1
   - https://github.com/magento/devdocs/pulls?q=is%3Apr+author%3Athomas-kl1
-- https://github.com/redchamps/clean-admin-menu (first contributor)
+- https://github.com/redchamps/clean-admin-menu
 
 ### My Projects:
 
