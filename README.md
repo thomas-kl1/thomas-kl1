@@ -16,7 +16,7 @@
 
 
 
-[My public contributions](https://github.com/pulls?page=2&q=is%3Apr+author%3Athomas-kl1)
+[My public contributions](https://github.com/pulls?q=is%3Apr+author%3Athomas-kl1)
 
 [Magento Contributor Profile](https://opensource.magento.com/profile/thomas-kl1/contribution_statistic)
 
