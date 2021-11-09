@@ -11,8 +11,9 @@
 
 [Magento Contributor Profile](https://opensource.magento.com/profile/thomas-kl1/contribution_statistic)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=magento&repo=magento2&theme=dark)](https://github.com/magento/magento2/pulls?q=is%3Apr+author%3Athomas-kl1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=magento&repo=devdocs&theme=dark)](https://github.com/magento/devdocs/pulls?q=is%3Apr+author%3Athomas-kl1)
+[Magento Open Source](https://github.com/magento/magento2/pulls?q=is%3Apr+author%3Athomas-kl1)
+[Magento Dev Doc](https://github.com/magento/devdocs/pulls?q=is%3Apr+author%3Athomas-kl1)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redchamps&repo=clean-admin-menu&theme=dark)](https://github.com/redchamps/clean-admin-menu)
 
 ### My Projects:
