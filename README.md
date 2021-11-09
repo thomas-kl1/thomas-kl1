@@ -5,16 +5,7 @@
 - 🐶 I like dogs
 - 🌱 I like plants
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-kl1&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-kl1&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
-</a>
-
 ### My Contributions:
-
-
 
 [My public contributions](https://github.com/pulls?q=is%3Apr+author%3Athomas-kl1)
 
