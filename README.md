@@ -12,6 +12,7 @@
 [Magento Contributor Profile](https://opensource.magento.com/profile/thomas-kl1/contribution_statistic)
 
 [Magento Open Source](https://github.com/magento/magento2/pulls?q=is%3Apr+author%3Athomas-kl1)
+
 [Magento Dev Doc](https://github.com/magento/devdocs/pulls?q=is%3Apr+author%3Athomas-kl1)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redchamps&repo=clean-admin-menu&theme=dark)](https://github.com/redchamps/clean-admin-menu)
