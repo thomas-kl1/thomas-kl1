@@ -5,6 +5,12 @@
 - 🐶 I like dogs
 - 🌱 I like plants
 
+### Pay me a coffe:
+
+# These are supported funding model platforms
+
+[paypal.me/thomaskl1](https://paypal.me/thomaskl1)
+
 ### My Contributions:
 
 [My public contributions](https://github.com/pulls?q=is%3Apr+author%3Athomas-kl1)
