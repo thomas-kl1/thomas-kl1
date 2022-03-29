@@ -5,7 +5,7 @@
 - 🐶 I like dogs
 - 🌱 I like plants
 
-### Pay me a coffe:
+### Pay me a coffee:
 
 # These are supported funding model platforms
 
