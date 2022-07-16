@@ -7,8 +7,6 @@
 
 ### Pay me a coffee:
 
-# These are supported funding model platforms
-
 [paypal.me/thomaskl1](https://paypal.me/thomaskl1)
 
 ### My Contributions:
